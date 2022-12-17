@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grouping Tags</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, Impact, Haettenschweiler,; /* Fonte das letras*/
+            background-color: dimgray; /*Cor de fundo*/
+            margin: 10px; /* Margem do lado de fora do body*/
+        }
+
+        header {
+            background-color: white; /*Cor de fundo*/
+            padding: 10px; /*Preenchimento do lado de dentro*/
+            margin: 10px; /* Margem do lado de fora*/
+        }
+        
+        nav {
+            background-color: rgb(92, 92, 92); /*Cor de fundo*/
+            padding: 7px; /*Preenchimento do lado de dentro*/
+            /*box-shadow: 2px 2px 1px black;*/ /*Sombra de caixa / Horizontal, vertical, espalhamento, cor*/
+            box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.315);
+        }
+
+        nav > a {
+            text-decoration: dashed;
+            color: white;
+            font-weight: normal; /*Tipo da letra*/
+            margin-right: 30px; /*Margem a direita*/
+        }
+
+        nav > a:hover {
+            text-decoration: underline;
+        
+        }
+
+        article {
+            background-color: lightgray;
+            padding: 5px; /*Preenchimento do lado de dentro*/
+        }
+
+        article > aside {
+            background-color: rgb(165, 165, 165);
+        }
+
+        main {
+            background-color: white;
+            padding: 10px; /*Preenchimento do lado de dentro*/
+            margin: 10px; /* Margem do lado de fora*/
+            border-radius: 10px 0px; /*Borda da caixa*/
+            box-shadow: 4px 4px 9px 0px rgba(0, 0, 0, 0.384);
+        }
+
+        footer {
+            background-color: black;
+            color: white;
+            text-align: center;
+            padding: 4px; /*Preenchimento do lado de dentro*/
+            margin: 0px; /* Margem do lado de fora*/
+        }
+
+        footer > p {
+            margin: 0px;
+        }
+        div#bola {
+            height: 100px; /* Altura */
+            width: 100px; /* Largura */
+            margin: 10px;
+            background-color: white;
+            border-radius: 50%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Meu site</h1>
+        <nav>
+            <a href="#">Link</a>
+            <a href="#">Link</a>
+            <a href="#">Link</a>
+            <a href="#">Link</a>
+            <a href="#">Link</a>
+        </nav>
+    </header>
+    <main>
+        <section id="assuntos">
+            <p>Esportes Política Tecnologia</p>
+        </section>
+        <section id="noticias">
+            <article>
+                <h2>Notícia sobre o Brasil</h2>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Velit illum expedita numquam, quo ad saepe odit aliquid est, quia, assumenda unde ex porro. Sit libero eligendi adipisci qui, at sunt.</p>
+                <aside>
+                    <p>Artigo escrito por José da Silva</p>
+                </aside>
+            </article>
+            <article>
+
+            </article>
+        </section>
+    </main>
+    <footer>
+        <p>Desenvolvido pelo CursoemVidio</p>
+    </footer>
+    <div id="bola">
+    </div>
+</body>
+</html>
