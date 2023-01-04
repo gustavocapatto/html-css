@@ -4,7 +4,7 @@
 
 Material público de HTML5 e CSS3, Material retirado do Curso em Video.
 
-# Vizualize os exercícios feitos
+# Vizualize os exercícios
 
 * [EX 001](https://gustavocapatto.github.io/html-css/Exercicios/EX001/) 
 * [EX 002 - Paragrafos, símbolos e emojes)](https://gustavocapatto.github.io/html-css/Exercicios/EX002/) 
@@ -52,4 +52,13 @@ Material público de HTML5 e CSS3, Material retirado do Curso em Video.
 * [EX 024b - iframe](https://gustavocapatto.github.io/html-css/Exercicios/EX024/iframe002.html)
 * [EX 024c - iframe](https://gustavocapatto.github.io/html-css/Exercicios/EX024/iframe003.html)
 
+# Vizualize os Desafios
 
+* [Desafio 05](https://gustavocapatto.github.io/html-css/Desafios/Desafio05/)
+* [Desafio 06](https://gustavocapatto.github.io/html-css/Desafios/Desafio06/)
+* [Desafio 09](https://gustavocapatto.github.io/html-css/Desafios/Desafio09/)
+* [Desafio 10](https://gustavocapatto.github.io/html-css/Desafios/Desafio10/curiosidades.html)
+* [Desafio 12](https://gustavocapatto.github.io/html-css/Desafios/Desafio12/)
+* [Desafio 13](https://gustavocapatto.github.io/html-css/Desafios/Desafio13/exercicio1.html)
+* [Desafio 13b](https://gustavocapatto.github.io/html-css/Desafios/Desafio13/exercicio2.html)
+* [Desafio 13c](https://gustavocapatto.github.io/html-css/Desafios/Desafio13/exercicio3.html)
