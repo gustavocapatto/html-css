@@ -100,9 +100,13 @@ Material público de HTML5 e CSS3, Material retirado do Curso em Video.
 <p><a href="https://gustavocapatto.github.io/html-css/Desafios/Desafio05/" target="_blank">Desafio 05</a></p>
 <p><a href="https://gustavocapatto.github.io/html-css/Desafios/Desafio06/" target="_blank">Desafio 06</a></p>
 <p><a href="https://gustavocapatto.github.io/html-css/Desafios/Desafio09/" target="_blank">Desafio 09</a></p>
-<p><a href="https://gustavocapatto.github.io/html-css/Desafios/Desafio10/curiosidades.html" target="_blank">Desafio 10</a></p>
-<p><a href="https://gustavocapatto.github.io/html-css/Desafios/Desafio12/" target="_blank">Desafio 12</a></p>
 <p><a href="https://gustavocapatto.github.io/html-css/Desafios/Desafio13/exercicio1.html" target="_blank">Desafio 13</a></p>
 <p><a href="https://gustavocapatto.github.io/html-css/Desafios/Desafio13/exercicio2.html" target="_blank">Desafio 13b</a></p>
 <p><a href="https://gustavocapatto.github.io/html-css/Desafios/Desafio13/exercicio3.html" target="_blank">Desafio 13c</a></p>
 <p><a href="https://gustavocapatto.github.io/html-css/Desafios/Desafio14/" target="_blank">Desafio 14</a></p>
+
+<h1>Projetos do curso</h1>
+
+<p><a href="https://gustavocapatto.github.io/html-css/Desafios/ProjetoAndroid/curiosidades.html" target="_blank">Projeo Android</a></p>
+<p><a href="https://gustavocapatto.github.io/html-css/Desafios/ProjetoCordel/" target="_blank">Projeto Cordel</a></p>
+<p><a href="https://gustavocapatto.github.io/html-css/Desafios/ProjetoLogin/" target="_blank">Projeto Login</a></p>
