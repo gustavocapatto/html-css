@@ -107,6 +107,6 @@ Material público de HTML5 e CSS3, Material retirado do Curso em Video.
 
 <h1>Projetos do curso</h1>
 
-<p><a href="https://gustavocapatto.github.io/html-css/Desafios/ProjetoAndroid/curiosidades.html" target="_blank">Projeo Android</a></p>
+<p><a href="https://gustavocapatto.github.io/html-css/Desafios/ProjetoAndroid/curiosidades.html" target="_blank">Projeto Android</a></p>
 <p><a href="https://gustavocapatto.github.io/html-css/Desafios/ProjetoCordel/" target="_blank">Projeto Cordel</a></p>
 <p><a href="https://gustavocapatto.github.io/html-css/Desafios/ProjetoLogin/" target="_blank">Projeto Login</a></p>
