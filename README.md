@@ -92,7 +92,8 @@ Material público de HTML5 e CSS3, Material retirado do Curso em Video.
 <p><a href="https://gustavocapatto.github.io/html-css/Exercicios/EX026/mq001/" target="_blank">EX 026 - Media Query</a> | 
 <a href="https://gustavocapatto.github.io/html-css/Exercicios/EX026/mq002/" target="_blank">EX 026b - Media Query</a> | 
 <a href="https://gustavocapatto.github.io/html-css/Exercicios/EX026/mq003/" target="_blank">EX 026c - Media Query</a> | 
-<a href="https://gustavocapatto.github.io/html-css/Exercicios/EX026/mq004/" target="_blank">EX 026d - Media Query</a></p>
+<a href="https://gustavocapatto.github.io/html-css/Exercicios/EX026/mq004/" target="_blank">EX 026d - Media Query</a> | 
+<a href="https://gustavocapatto.github.io/html-css/Exercicios/EX026/mq005/" target="_blank">EX 026e - Media Query</a></p>
 
 <h1>Vizualize os Desafios</h1>
 
