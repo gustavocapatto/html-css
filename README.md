@@ -6,8 +6,8 @@ Material público de HTML5 e CSS3, Material retirado do Curso em Video.
 
 # Vizualize os exercícios
 
-<a href="https://gustavocapatto.github.io/html-css/Exercicios/EX001/" target="_blank">EX 002</a> 
-<a href="https://gustavocapatto.github.io/html-css/Exercicios/EX002/" target="_blank">EX 002 - Paragrafos, símbolos e emojes</a> 
+<p><a href="https://gustavocapatto.github.io/html-css/Exercicios/EX001/" target="_blank">EX 001</a></p> 
+<p><a href="https://gustavocapatto.github.io/html-css/Exercicios/EX002/" target="_blank">EX 002 - Paragrafos, símbolos e emojes</a></p>
 <a href="https://gustavocapatto.github.io/html-css/Exercicios/EX003/" target="_blank">EX 003 Imagens</a>
 <a href="https://gustavocapatto.github.io/html-css/Exercicios/EX004/" target="_blank">EX 004 - FaveIcon</a> 
 <a href="https://gustavocapatto.github.io/html-css/Exercicios/EX006/" target="_blank">EX 006 - Hierarquia de Títulos</a>
