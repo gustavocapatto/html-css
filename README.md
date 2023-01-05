@@ -4,11 +4,11 @@
 
 Material público de HTML5 e CSS3, Material retirado do Curso em Video.
 
-# Vizualize os exercícios
+<h1>Vizualize os exercícios</h1>
 
-<p><a href="https://gustavocapatto.github.io/html-css/Exercicios/EX001/" target="_blank">EX 001</a></p></p> 
+<p><a href="https://gustavocapatto.github.io/html-css/Exercicios/EX001/" target="_blank">EX 001</a></p>
 
-<p><a href="https://gustavocapatto.github.io/html-css/Exercicios/EX002/" target="_blank">EX 002 - Paragrafos, símbolos e emojes</a></p></p>
+<p><a href="https://gustavocapatto.github.io/html-css/Exercicios/EX002/" target="_blank">EX 002 - Paragrafos, símbolos e emojes</a></p>
 
 <p><a href="https://gustavocapatto.github.io/html-css/Exercicios/EX003/" target="_blank">EX 003 Imagens</a></p>
 
@@ -17,7 +17,7 @@ Material público de HTML5 e CSS3, Material retirado do Curso em Video.
 <p><a href="https://gustavocapatto.github.io/html-css/Exercicios/EX006/" target="_blank">EX 006 - Hierarquia de Títulos</a></p>
 
 <p><a href="https://gustavocapatto.github.io/html-css/Exercicios/EX007/html4.html" target="_blank">EX 007 - Semântica (html4)</a> | 
-<p><a href="https://gustavocapatto.github.io/html-css/Exercicios/EX007/html5.html" target="_blank">EX 007b - Semântica (html5)</a></p> | 
+<a href="https://gustavocapatto.github.io/html-css/Exercicios/EX007/html5.html" target="_blank">EX 007b - Semântica (html5)</a></p>
 
 <p><a href="https://gustavocapatto.github.io/html-css/Exercicios/EX008/" target="_blank">EX 008 - Formatação de Textos</a></p>
 
@@ -94,7 +94,7 @@ Material público de HTML5 e CSS3, Material retirado do Curso em Video.
 <a href="https://gustavocapatto.github.io/html-css/Exercicios/EX026/mq003/" target="_blank">EX 026c - Media Query</a> | 
 <a href="https://gustavocapatto.github.io/html-css/Exercicios/EX026/mq004/" target="_blank">EX 026d - Media Query</a></p>
 
-# Vizualize os Desafios
+<h1>Vizualize os Desafios</h1>
 
 <p><a href="https://gustavocapatto.github.io/html-css/Desafios/Desafio05/" target="_blank">Desafio 05</a></p>
 <p><a href="https://gustavocapatto.github.io/html-css/Desafios/Desafio06/" target="_blank">Desafio 06</a></p>
