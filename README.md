@@ -51,6 +51,23 @@ Material público de HTML5 e CSS3, Material retirado do Curso em Video.
 * [EX 024 - iframe](https://gustavocapatto.github.io/html-css/Exercicios/EX024/iframe001.html)
 * [EX 024b - iframe](https://gustavocapatto.github.io/html-css/Exercicios/EX024/iframe002.html)
 * [EX 024c - iframe](https://gustavocapatto.github.io/html-css/Exercicios/EX024/iframe003.html)
+* [EX 024d - iframe](https://gustavocapatto.github.io/html-css/Exercicios/EX024/iframe004.html)
+* [EX 024e - iframe](https://gustavocapatto.github.io/html-css/Exercicios/EX024/iframe005.html)
+* [EX 024f - iframe](https://gustavocapatto.github.io/html-css/Exercicios/EX024/iframe006.html)
+* [EX 025 - Formulários](https://gustavocapatto.github.io/html-css/Exercicios/EX025/form001.html)
+* [EX 025b - Formulários](https://gustavocapatto.github.io/html-css/Exercicios/EX025/form002.html)
+* [EX 025c - Formulários](https://gustavocapatto.github.io/html-css/Exercicios/EX025/form003.html)
+* [EX 025d - Formulários](https://gustavocapatto.github.io/html-css/Exercicios/EX025/form004.html)
+* [EX 025e - Formulários](https://gustavocapatto.github.io/html-css/Exercicios/EX025/form005.html)
+* [EX 025f - Formulários](https://gustavocapatto.github.io/html-css/Exercicios/EX025/form006.html)
+* [EX 025g - Formulários](https://gustavocapatto.github.io/html-css/Exercicios/EX025/form007.html)
+* [EX 025h - Formulários](https://gustavocapatto.github.io/html-css/Exercicios/EX025/form008.html)
+* [EX 025i - Formulários](https://gustavocapatto.github.io/html-css/Exercicios/EX025/form009.html)
+* [EX 025j - Formulários](https://gustavocapatto.github.io/html-css/Exercicios/EX025/form010.html)
+* [EX 026 - Media Query](https://gustavocapatto.github.io/html-css/Exercicios/EX026/mq001/)
+* [EX 026b - Media Query](https://gustavocapatto.github.io/html-css/Exercicios/EX026/mq002/)
+* [EX 026c - Media Query](https://gustavocapatto.github.io/html-css/Exercicios/EX026/mq003/)
+* [EX 026d - Media Query](https://gustavocapatto.github.io/html-css/Exercicios/EX026/mq004/)
 
 # Vizualize os Desafios
 
@@ -62,3 +79,4 @@ Material público de HTML5 e CSS3, Material retirado do Curso em Video.
 * [Desafio 13](https://gustavocapatto.github.io/html-css/Desafios/Desafio13/exercicio1.html)
 * [Desafio 13b](https://gustavocapatto.github.io/html-css/Desafios/Desafio13/exercicio2.html)
 * [Desafio 13c](https://gustavocapatto.github.io/html-css/Desafios/Desafio13/exercicio3.html)
+* [Desafio 14](https://gustavocapatto.github.io/html-css/Desafios/Desafio14/)
